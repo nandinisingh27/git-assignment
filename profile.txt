@@ -1,2 +1,3 @@
-Nandini singh
-Agra
+Name: Nandini singh
+City: Agra
+Skills: Python, Django, SQL
